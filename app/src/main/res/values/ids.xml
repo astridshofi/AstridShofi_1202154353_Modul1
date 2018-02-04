@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="et_food" type="id" />
+    <item name="et_portion" type="id" />
+    <item name="tv_restaurant" type="id" />
+    <item name="tv_menu" type="id" />
+    <item name="tv_portion" type="id" />
+    <item name="tv_price" type="id" />
+</resources>
